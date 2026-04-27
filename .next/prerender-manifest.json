@@ -1,1 +1,36 @@
-{"version":4,"routes":{"/api/health":{"initialHeaders":{"content-type":"application/json","x-next-cache-tags":"_N_T_/layout,_N_T_/api/layout,_N_T_/api/health/layout,_N_T_/api/health/route,_N_T_/api/health"},"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/api/health","dataRoute":null},"/":{"experimentalBypassFor":[{"type":"header","key":"Next-Action"},{"type":"header","key":"content-type","value":"multipart/form-data;.*"}],"initialRevalidateSeconds":false,"srcRoute":"/","dataRoute":"/index.rsc"}},"dynamicRoutes":{},"notFoundRoutes":[],"preview":{"previewModeId":"6d7f21a8f37de96b9c8c151439cfb8e2","previewModeSigningKey":"205e26e57664e2d9ca883f7ed0f77750fa5b42cc07a382a9df32cc198c43922d","previewModeEncryptionKey":"7ef2996b150526100895db61097a152ad06def7c3176773c9b6319dfe4e666b0"}}
+{
+  "version": 4,
+  "routes": {
+    "/": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "Next-Action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/",
+      "dataRoute": "/index.rsc",
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    }
+  },
+  "dynamicRoutes": {},
+  "notFoundRoutes": [],
+  "preview": {
+    "previewModeId": "7915232b1f44734fa14ecac280f50cbb",
+    "previewModeSigningKey": "6cb7e0b7cb635ede64148898be1240bd22810de1809d27539e63b28a88a761e5",
+    "previewModeEncryptionKey": "01d7135eee81b82dbd46bc8c7e0ad5775a78982891d14d061144d40b0f17bbb2"
+  }
+}
