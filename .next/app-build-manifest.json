@@ -7,19 +7,19 @@
       "static/chunks/main-app-ebc4223d55d4cf0c.js",
       "static/chunks/app/_not-found/page-38eea07280113f8b.js"
     ],
-    "/api/health/route": [
-      "static/chunks/webpack-5adebf9f62dc3001.js",
-      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
-      "static/chunks/684-e1dcaaac348d7ffc.js",
-      "static/chunks/main-app-ebc4223d55d4cf0c.js",
-      "static/chunks/app/api/health/route-cfa292eea4e74732.js"
-    ],
     "/layout": [
       "static/chunks/webpack-5adebf9f62dc3001.js",
       "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
       "static/chunks/684-e1dcaaac348d7ffc.js",
       "static/chunks/main-app-ebc4223d55d4cf0c.js",
       "static/chunks/app/layout-23d862858e75afd1.js"
+    ],
+    "/api/health/route": [
+      "static/chunks/webpack-5adebf9f62dc3001.js",
+      "static/chunks/4bd1b696-d4d5eb693d0a7af9.js",
+      "static/chunks/684-e1dcaaac348d7ffc.js",
+      "static/chunks/main-app-ebc4223d55d4cf0c.js",
+      "static/chunks/app/api/health/route-cfa292eea4e74732.js"
     ],
     "/page": [
       "static/chunks/webpack-5adebf9f62dc3001.js",
